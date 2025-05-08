@@ -11,7 +11,7 @@
 2. **Music Generation** – Generates a custom melody reflecting the user's emotional state.
 3. **Story Creation** – Crafts a personalized short story based on the detected emotion using GPT-2.
 4. **Text-to-Speech** – Narrates the generated story using Google's TTS.
-5. **Visualization** – Displays a real-time waveform or abstract visualization matching the mood of the emotion.
+5. **Visualization** – Displays a real-time waveform and shows the confidence level using different colors matching the mood of the emotion.
 
 ---
 
@@ -32,7 +32,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/emotion-composer.git
+  
    cd emotion-composer
 
 2. **Install dependencies**:
