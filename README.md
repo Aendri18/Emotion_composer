@@ -33,7 +33,7 @@
 1. **Clone the repository**:
    ```bash
    https://github.com/Aendri18/Emotion_composer.git
-   cd emotion-composer
+   cd Emotion_composer
 
 2. **Install dependencies**:
    ```bash
